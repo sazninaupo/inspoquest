@@ -24,7 +24,7 @@ A clean and interactive quote generator that gives you a random motivational quo
 
 ### 🌐 Live Demo
 
-👉 https://github.com/sazninaupo/inspoquest/edit/main/README.md
+👉 https://github.com/sazninaupo/inspoquest/tree/main/inspoquest
 
 ---
 
